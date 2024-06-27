@@ -11,7 +11,7 @@
   position: relative;
   margin-top: 60px;
   transition: all 0.5s ease;
-  font-family: Arial, sans-serif; 
+  font-family: Arial, sans-serif;
 }
 
 .image {
@@ -23,7 +23,7 @@
   position: absolute;
   left: 0;
   transition: all 0.5s ease;
-  font-family: Arial, sans-serif; 
+  font-family: Arial, sans-serif;
 }
 
 .logo {
@@ -74,14 +74,13 @@
     top: 0;
     justify-content: space-between;
     align-items: center;
-    background-color: #9b8441;
+    background-color: #ffc000;
     width: 100%;
     margin: 0;
     border-radius: 0;
     height: 100px;
     transition: all 0.5s ease;
     font-family: Arial, sans-serif;
-
   }
 
   .nav-links {
