@@ -128,15 +128,6 @@
 
 /* General Mobile Styles */
 @media (max-width: 800px) {
-  .hotel {
-    width: 100%;
-    height: 850px;
-    top: 0;
-    z-index: -1;
-    position: absolute;
-    filter: brightness(50%);
-  }
-
   .btn {
     font-size: 1.5rem;
     padding: 8px 16px;
